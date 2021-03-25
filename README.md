@@ -1,32 +1,33 @@
 # Office-365-Licensing-Tool
 
-1.	Introdução
- 
-O Office 365 Licensing Tool é uma ferramenta para atribuir licenças em grandes quantidades no Office 365, feita com uma interface simples e amigável, sem a necessidade do usuário ter conhecimento em Powershell para realizar as tarefas como adicionar, modificar, substituir e remover licenças no Office 365.
- 
-Este documento descreve a ferramenta Office 365 Licensing Tool 4.0.
+Objetive:
 
-2.	Requisitos
+the Application objective is facilitating the routine of Office 365 administrators, assigning licenses in large quantities, using a CSV file or an existing distribution group, set location, plans and product to be assigned to users in Office 365, without the need to know in Powershell.
+Resources:
 
-Para total funcionamento da aplicação é necessário que seu computador atenda aos requisitos mínimos abaixo.
- 
-2.1.	Sistema Operacional
+•	Application protected by public digital certificate 
+•	Add, Replace and Remove Licensing
+•	Generate a Report of active users 
+•	Assign licenses to users in Office 365 through distribution group or a CSV file 
+•	Find all available plans and products in the tenant 
+•	Shows the friendly names of plans and products 
+•	Show the number of available licenses of the selected plan 
+•	Disable or enable any specific product within the selected plan 
+•	allows you to choose the location to be configured on the user 
+•	Generates detailed logs of licensed users and users who had some error in the license allocation 
+•	2 idioms English and portuguese 
 
-Os seguintes sistemas operacionais são suportados:
+Pre – requirements
 
-•	Windows 7 (necessário PowerShell 4.0 e Net Framework 4.5)
-•	Windows 8.1
-•	Windows 10
- 
-Importante: Você deve ser administrador local de seu computador para executar a ferramenta.
- 
-2.2.	Rede 
- 
-Seu computador deve ter acesso à internet liberado para os datacenters do Office 365 conforme o link oficial da Microsoft abaixo.
- 
-https://support.office.com/en-us/article/Office-365-URLs-and-IP-address-ranges-8548a211-3fe7-47cb-abb1-355ea5aa88a2?ui=en-US&rs=en-US&ad=US&fromAR=1#bkmk_portal-identity
- 
-A ferramenta também consome uma lista de planos do Office 365 que atualizo constantemente, caso sua máquina não tenha acesso a URL abaixo, a ferramenta irá funcionar como arquivo Off-line, porém você poderá ficar com a lista de planos desatualizada.
+Always Run the Tool as Administrator
 
+Operational system:
+•	Windows 8.1 
+•	Windows 10 
 
-# Acesse o aqyuivo word que esta no diretorio para ler a documentação completa da ferramenta
+PS. all other requirements are automatically installed
+
+•	Microsoft online services sign-in assistant 
+•	Azure Active Directory Module 
+
+Ps. Read  complete documentation in git repository below
