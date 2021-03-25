@@ -33,4 +33,4 @@ PS. all other requirements are automatically installed
 •	Microsoft online services sign-in assistant 
 •	Azure Active Directory Module 
 
-Ps. Read  complete documentation in git repository below
+Ps. Read  complete documentation in git repository above
