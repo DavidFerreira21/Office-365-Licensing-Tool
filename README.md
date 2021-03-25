@@ -29,4 +29,4 @@ https://support.office.com/en-us/article/Office-365-URLs-and-IP-address-ranges-8
 A ferramenta também consome uma lista de planos do Office 365 que atualizo constantemente, caso sua máquina não tenha acesso a URL abaixo, a ferramenta irá funcionar como arquivo Off-line, porém você poderá ficar com a lista de planos desatualizada.
 
 
-# Acesse o arquivo de Word no diretorio para um documentação completa de como Usar a ferramenta 
+# Acesse o aqyuivo word que esta no diretorio para ler a documentação completa da ferramenta
