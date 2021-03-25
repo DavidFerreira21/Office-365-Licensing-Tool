@@ -27,3 +27,6 @@ Seu computador deve ter acesso à internet liberado para os datacenters do Offic
 https://support.office.com/en-us/article/Office-365-URLs-and-IP-address-ranges-8548a211-3fe7-47cb-abb1-355ea5aa88a2?ui=en-US&rs=en-US&ad=US&fromAR=1#bkmk_portal-identity
  
 A ferramenta também consome uma lista de planos do Office 365 que atualizo constantemente, caso sua máquina não tenha acesso a URL abaixo, a ferramenta irá funcionar como arquivo Off-line, porém você poderá ficar com a lista de planos desatualizada.
+
+
+# Acesse o arquivo de Word no diretorio para um documentação completa de como Usar a ferramenta 
