@@ -1,5 +1,8 @@
 # Office-365-Licensing-Tool
 
+The Office 365 Plans name can be not updated !!!
+
+
 Objetive:
 
 the Application objective is facilitating the routine of Office 365 administrators, assigning licenses in large quantities, using a CSV file or an existing distribution group, set location, plans and product to be assigned to users in Office 365, without the need to know in Powershell.
